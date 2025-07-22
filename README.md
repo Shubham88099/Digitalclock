@@ -14,3 +14,5 @@ This is a simple GUI-based Digital Clock application built using **Python** and 
 - Python 3.x
 - Tkinter (built-in Python GUI library)
 - `time` module
+
+![image alt](https://github.com/Shubham88099/Digitalclock/blob/b411ca97161ab7724ac8b89262b55c7069a1eb85/Screenshot%202025-07-22%20214145.png)
